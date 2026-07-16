@@ -3,7 +3,7 @@ UAS Pemrogtraman Aplikasi Mobile
 
 Nama         : Maulana Nanda Pratama
 NIM          : 24.01.53.3007
-Mata Kuliah  : Mobile Programming
+Mata Kuliah  : Pemrograman Aplikasi Mobile
 
 Deskripsi
 Sensor Logger merupakan aplikasi Android yang memanfaatkan sensor **Accelerometer** untuk membaca nilai sumbu X, Y, dan Z secara real-time. Data hasil pembacaan sensor dapat disimpan ke dalam database SQLite dan ditampilkan kembali pada halaman riwayat.
